@@ -1,0 +1,111 @@
+
+shezhang1.png
+size: 825,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aww
+  rotate: false
+  xy: 760, 404
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+band
+  rotate: true
+  xy: 479, 2
+  size: 492, 113
+  orig: 492, 113
+  offset: 0, 0
+  index: -1
+blush_L
+  rotate: true
+  xy: 760, 310
+  size: 92, 46
+  orig: 92, 46
+  offset: 0, 0
+  index: -1
+blush_R
+  rotate: true
+  xy: 760, 310
+  size: 92, 46
+  orig: 92, 46
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 594, 330
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 594, 330
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+eye_L_HL
+  rotate: true
+  xy: 594, 23
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+eye_R_HL
+  rotate: true
+  xy: 594, 23
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 7
+  size: 475, 487
+  orig: 475, 487
+  offset: 0, 0
+  index: -1
+lowerlid_L
+  rotate: false
+  xy: 594, 253
+  size: 143, 75
+  orig: 143, 75
+  offset: 0, 0
+  index: -1
+lowerlid_R copy
+  rotate: true
+  xy: 594, 107
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+smile
+  rotate: true
+  xy: 668, 163
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+upperlid_L
+  rotate: true
+  xy: 739, 165
+  size: 143, 75
+  orig: 143, 75
+  offset: 0, 0
+  index: -1
+upperlid_R
+  rotate: true
+  xy: 716, 19
+  size: 144, 72
+  orig: 144, 72
+  offset: 0, 0
+  index: -1
+wuw
+  rotate: false
+  xy: 668, 123
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
